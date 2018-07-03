@@ -55,5 +55,5 @@ class Main():
             print("Invalid quantity")
             logger.info("Invalid quantity")
 
-pickupItems = Main()
-pickupItems.register_new_employee()
+main = Main()
+main.register_new_employee()
